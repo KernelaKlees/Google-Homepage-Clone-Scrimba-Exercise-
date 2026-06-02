@@ -10,11 +10,12 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: flex-start; /* Push content upward */
-    height: 100vh; /* Full height of the viewport */
-    padding-top: 140px; /* Adjust to move content upward or downward */
+    align-items: center;      
+    justify-content: center;
+    height: 100vh;           
+    padding-top: 0;          
 }
+
 
 .google-logo {
     width: 200px; /* Resize logo width */
